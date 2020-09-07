@@ -1,4 +1,3 @@
-
 ## Introduction
 Car road accidents are the number one problem in US road transportation, accounting for 99% of transportation injuries and representing an economic cost of 150 billion USD annually [1]. Deaths and injuries from the accidents are some of the issues concerned by insurance companies, healthcare institution and governments. It’s very important for them to be able to predict the severity rate of an accident given some known variables. This project will attempt to employ classification models to predict severity rates and compare the accuracy of each built model.
 
