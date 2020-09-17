@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Predicting car accident severity
 ### Capstone Project for the IBM Data Science Professional Certificate
   
   Start date: Sep 05, 2020
@@ -36,5 +36,3 @@ The following classification algorithms were employed to predict and evaluate th
 3.	Logistic Regression
 4.	Random Forest
 5.	Support Vector Machine (SVM)
-
-To be continued.
