@@ -56,3 +56,6 @@ The models were evaluated and reported by using Jaccard score, F1 score and log 
 In this project, we analyzed the dataset of car accident severity to predict the severity of the accident by employing supervised machine learning models. After carefully
 preprocessing the dataset, which included sampling and feature selection and extraction, the data was modeled by using 4 models: k-nearest neighbors, decision trees, support vector machine and logistic regression.
 The outcome variable (severity code) was treated as a binary dependent variable since it only has two categories (less severe and more severe). Keeping that in mind, the model most suitable for predicting the car accident severity rates with the current dataset is the logistic regression. 
+
+### References
+[1] [1] NHTSA 2020 Report - https://one.nhtsa.gov/nhtsa/whatis/planning/2020Report/2020report.html
